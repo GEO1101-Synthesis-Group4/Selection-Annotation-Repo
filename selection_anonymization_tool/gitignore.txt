@@ -1,0 +1,4 @@
+**/.idea/
+**/.vs/
+**/potree-1.7_src/
+**/data/

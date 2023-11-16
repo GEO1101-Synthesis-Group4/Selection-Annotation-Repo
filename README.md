@@ -44,4 +44,4 @@ Just download or fork this repository, and put the whole folder into a web serve
 
 ___
 
-The detail part will be update soon.
+For selection_anonymization_tool, just add the Potree format data into the **data** folder. And change the data path in the *selection_anonymization_tool/src/main.js*.
